@@ -80,8 +80,8 @@ The **Forecast Dashboard** focuses on predicting future sales trends and analyzi
 
 
 ```
-![Dashboard Preview](Sales_Dashboard.png)
-![Dashboard Preview](Sales_Forecast.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
+![Sales Dashboard](images/Sales_Forecast.png)
 
 ```
 
