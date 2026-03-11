@@ -77,10 +77,10 @@ The **Forecast Dashboard** focuses on predicting future sales trends and analyzi
 ---
 
 # 📷 Dashboard Preview
-(Add screenshots of your dashboard here)
+
 
 ```
-![Sales Dashboard](image_link_here)
+![Dashboard Preview](Sales_Dashboard.png)(Sales_Forecast.png)
 
 ```
 
